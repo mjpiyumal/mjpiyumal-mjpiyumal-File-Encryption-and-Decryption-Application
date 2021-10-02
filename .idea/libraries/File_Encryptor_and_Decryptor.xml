@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="file_encryptor_and_decryptor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/file_encryptor_and_decryptor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
